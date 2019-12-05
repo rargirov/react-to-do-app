@@ -4,10 +4,11 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.1",
-    "react": "^16.7.0",
+    "react": "^16.11.0",
     "react-dom": "^16.7.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.2",
+    "react-scripts": "^3.2.0",
+    "redux": "^4.0.4",
     "underscore": "^1.9.1",
     "uuid": "^3.3.2"
   },
